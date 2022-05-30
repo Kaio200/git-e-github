@@ -14,3 +14,9 @@ git clone repositório
 
 Atualizando um repositório clonado:
 git pull
+
+[] () link
+
+! [] () inserir  imagem
+
+-[]  [/]
